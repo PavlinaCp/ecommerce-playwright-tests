@@ -15,7 +15,8 @@ Tested application: https://automationexercise.com
 - Add and remove product from cart (positive scenario)
 - Basic purchase flow (checkout + payment)
 - Basic handling dynamic elements (cookies, popups)
-- 
+  
+---
 ## Testing
 This project includes automated UI tests using Playwright and Pytest:
 - Positive test scenarios (valid user actions)
